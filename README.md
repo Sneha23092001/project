@@ -1,1 +1,5 @@
-# Quality of Fruit Detection System Using CNN - FALHARI
+# Quality of Fruit Detection System 
+Quality of Fruit Detection System Using CNN project describes an excellent method for detecting fruits’ quality using convolutional neural networks. Fruit grading is done by inspections, experiences, and observation. To rate the quality of fruits, the proposed system employs machine learning techniques. Shape and color-based analysis methods are used to grade 2 dimensional fruit depictions. Different fruit photos may have identical color, size, and shape qualities. As a result, utilizing color or form property analysis methods to identify and differentiate fruit photos is ineffective.
+
+As a result, to improve the accuracy and precision of fruit quality assessment, we merged the size, shape and color-based technique with a Convolutional Neural Network. The method is started by clicking on the fruit image in the proposed system. The image is then transferred to the filtration stage, where the size, shape, and color of the fruit sample are extracted. Subsequently, the fruit images are trained and tested using a convolutional neural network. The convolutional neural network is used in this proposed paper to draw out the size, shape, and color of the fruit, and the results achieved with the union of these three features are quite promising.
+
